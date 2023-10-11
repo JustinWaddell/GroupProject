@@ -1,5 +1,14 @@
+/**
+ * class: Exercise2
+ * @author: Justin Maverick Waddell
+ * @version: 1.0
+ * course: ITEC 2140 - 10, Fall 2023
+ * @writtenon: October 4, 2023
+ * description: 4.11.2: This program is used to find the mean of students submitted by the user.
+ */
 package Homework.HomeWork4;
 import java.util.Scanner;
+
 public class Exercise2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
