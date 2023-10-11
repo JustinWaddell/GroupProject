@@ -1,3 +1,11 @@
+/**
+ * class: Exercise1
+ * @author: Justin Maverick Waddell
+ * @version: 1.0
+ * course: ITEC 2140 - 09, Fall 2023
+ * written on: October 10, 2023
+ * Description: 4.11.1 :This program is used to see if a number is a prime number.
+ */
 package Homework.HomeWork4;
 import java.util.Scanner;
 public class Exercise1 {
@@ -7,20 +15,17 @@ public class Exercise1 {
         int number = input.nextInt();
         boolean isprime = false;
 
-        for(int i = 2; i <= number/2; i++) {
+        for(int i = 2; i < number; i++) {
             if (number % i == 0){
-                  isprime = false;
-            }
-
-                else {
-                    isprime = true;
+                isprime = false;
+                break;
 
             }
         }
-        if (isprime == false) {
-            System.out.println("it is not a prime number");
-        } else if (isprime == true) {
+        if (isprime) {
             System.out.println("it is a prime number");
+        } else {
+            System.out.println("it is not a prime number");
         }
 
 
