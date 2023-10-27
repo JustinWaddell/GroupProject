@@ -1,11 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d90b6719-8c21-47b5-b72f-80fdf24f55da" name="Changes" comment="" />
+    <list default="true" id="d90b6719-8c21-47b5-b72f-80fdf24f55da" name="Changes" comment="hello">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArraysTutor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decks/DeckofCarda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoopDemo/BlastOff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoopDemo/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoopDemo/ForLoopDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoopDemo/MultipulcationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/Chapter5/ExerciseGetString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/HomeWork4/Exercise6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rectangle/RectangleSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tutor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoopDemo/Dowhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoopDemo/MaxMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoopDemo/MinMaxDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoopDemo/SimplePassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoopDemo/WhileLoopDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Method1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/MethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/reading/ReadString1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/reading/ReadString2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/reading/ReadString3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/reading/ReadString4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/palindrome/Palindrome1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/palindrome/Palindrome2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/palindrome/Palindrome3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter3Homework/Banking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Banking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter3Homework/Ecommerce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Ecommerce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter3Homework/Transportation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Transportation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/HomeWork4/Exercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/HomeWork4/Exercise5.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Justin Waddell &lt;jwaddell2@ggc.edu&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2VzS5ogVJxpttarOeVbEC5R6eh6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,7 +72,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/jwaddell2/IdeaProjects/MyJava/src/Homework/Chapter5",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "two.files.diff.last.used.folder": "C:/Users/jwaddell2/IdeaProjects/MyJava/src/Homework/Chapter5"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -28,6 +88,47 @@
       <option name="presentableId" value="Default" />
       <updated>1695837237575</updated>
     </task>
+    <task id="LOCAL-00001" summary="hello">
+      <created>1696391777857</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696391777857</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hello">
+      <created>1696391947930</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696391947931</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hello">
+      <created>1697067723695</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697067723695</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hello">
+      <created>1697067744632</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697067744633</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hello">
+      <created>1698371770031</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698371770031</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="hello" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello" />
   </component>
 </project>

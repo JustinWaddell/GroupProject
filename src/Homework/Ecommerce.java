@@ -1,5 +1,4 @@
-package Chapter3Homework;
-import jdk.jshell.spi.ExecutionControl;
+package Homework;
 
 import java.util.Scanner;
 public class Ecommerce {

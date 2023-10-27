@@ -15,9 +15,9 @@ public class Exercise5 {
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter a integer value.");
         int n = input.nextInt();
-        int np = 1;
+        int np = 0;
         for (int i = 1; i <= n; i++){
-            np = np * i;
+            np = np + i;
         }
         System.out.println("The factorial of the number you submitted is " +np);
     }

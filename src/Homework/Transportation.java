@@ -1,5 +1,4 @@
-package Chapter3Homework;
-import java.lang.runtime.SwitchBootstraps;
+package Homework;
 import java.util.Scanner;
 public class Transportation {
     public static void main(String[] args) {
@@ -39,7 +38,7 @@ public class Transportation {
                         break;
                     case "propeller":
                         System.out.println("Max speed: 200 mph");
-                        ;
+                        break;
                 }
         }
 
