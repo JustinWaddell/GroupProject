@@ -5,40 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d90b6719-8c21-47b5-b72f-80fdf24f55da" name="Changes" comment="hello">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayListDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArraysTutor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Decks/DeckofCarda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForLoopDemo/BlastOff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForLoopDemo/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForLoopDemo/ForLoopDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForLoopDemo/MultipulcationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/Chapter5/ExerciseGetString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/HomeWork4/Exercise6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rectangle/RectangleSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tutor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileLoopDemo/Dowhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileLoopDemo/MaxMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileLoopDemo/MinMaxDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileLoopDemo/SimplePassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileLoopDemo/WhileLoopDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/Method1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/MethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/reading/ReadString1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/reading/ReadString2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/reading/ReadString3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/reading/ReadString4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/palindrome/Palindrome1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/palindrome/Palindrome2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/palindrome/Palindrome3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3Homework/Banking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Banking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3Homework/Ecommerce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Ecommerce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3Homework/Transportation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Transportation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/HomeWork4/Exercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/HomeWork4/Exercise5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/Chapter5/Exercise3ReadaString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Chapter5/Exercise3ReadaString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/Chapter5/ExerciseGetString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Chapter5/ExerciseGetString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/Chapter5/GameScores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Chapter5/GameScores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/Chapter5/GetUserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Chapter5/GetUserInput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,16 +40,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/jwaddell2/IdeaProjects/MyJava/src/Homework/Chapter5",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "two.files.diff.last.used.folder": "C:/Users/jwaddell2/IdeaProjects/MyJava/src/Homework/Chapter5"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jwaddell2/IdeaProjects/MyJava/src/Homework/Chapter5&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;two.files.diff.last.used.folder&quot;: &quot;C:/Users/jwaddell2/IdeaProjects/MyJava/src/Homework/Chapter5&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -123,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698371770031</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="hello">
+      <created>1698372168289</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698372168290</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

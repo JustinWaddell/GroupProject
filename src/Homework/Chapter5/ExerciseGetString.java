@@ -9,15 +9,18 @@ package Homework.Chapter5;
  */
 import java.util.Scanner;
 public class ExerciseGetString {
-    public static String getString(){
-        Scanner input = new Scanner(System.in);
-        System.out.println("Please input a string");
-        String str = input.nextLine();
-        return str;
+
+    public void getString(String str){
+        System.out.println(str);
+
     }
 
-    public static void main(String[] args) {
-        String ans = getString();
-        System.out.println(ans);
+    public static void main(String[] args){
+        Scanner input = new Scanner(System.in);
+        System.out.println("Write something below");
+        String str = input.nextLine();
+        ExerciseGetString exp = new ExerciseGetString();
+        exp.getString(str);
     }
+
 }

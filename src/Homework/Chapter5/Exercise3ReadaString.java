@@ -5,7 +5,7 @@ package Homework.Chapter5;
  * @version: 1.0
  * course: ITEC 2140 - 09, Fall 2023
  * written on: October 26, 2023
- * Description: 5.12.3:This program is used to repeat the string with an instance method with Scanner parameter.
+ * Description: 5.12.3:This program is used to repeat the string with a static method with Scanner parameter.
  */
 import java.util.Scanner;
 public class Exercise3ReadaString {

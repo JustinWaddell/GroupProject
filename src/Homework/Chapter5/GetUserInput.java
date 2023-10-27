@@ -4,8 +4,8 @@ package Homework.Chapter5;
  * @author: Justin Maverick Waddell
  * @version: 1.0
  * course: ITEC 2140 - 09, Fall 2023
- * written on: October 10, 2023
- * Description: 5.12.1 :This program is used to see if a number is a prime number.
+ * written on: October 26, 2023
+ * Description: 5.12.1 :This program is used to print what the user print inside.
  */
 import java.util.Scanner;
 public class GetUserInput {
@@ -17,6 +17,7 @@ public class GetUserInput {
         exp.getInput(content);
     }
     public void getInput(String content){
+
         System.out.println(content);
     }
 }

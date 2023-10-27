@@ -14,7 +14,7 @@ public class GameScores {
         GameScores exp = new GameScores();
         exp.printScore();
 
-        System.out.println("Type in stop to not repeat the prgram");
+        System.out.println("Type in stop to not repeat the program");
         String stop = input.nextLine().toLowerCase();
         if (stop.equalsIgnoreCase("stop")){
             System.out.println("Thank you for your time.");
