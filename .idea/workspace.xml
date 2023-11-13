@@ -5,11 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d90b6719-8c21-47b5-b72f-80fdf24f55da" name="Changes" comment="hello">
+      <change afterPath="$PROJECT_DIR$/src/CCircle/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CCircle/CircleTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dog/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dog/DogTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Guess/Guess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Guess/GuessTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Movie/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Movie/Movietester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Movie/Person/Person2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Bedroom/Bed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Bedroom/Bedroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Bedroom/Ceiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Bedroom/Lamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Bedroom/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/FizzBuzz/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PC/BuildPC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PC/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PC/Dimension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PC/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PC/Motherboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PC/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PC/Resolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PC/Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person/PersonTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Chapter5/Exercise3ReadaString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Chapter5/Exercise3ReadaString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Chapter5/ExerciseGetString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Chapter5/ExerciseGetString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Chapter5/GameScores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Chapter5/GameScores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Chapter5/GetUserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Chapter5/GetUserInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +53,7 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -101,7 +125,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698372168290</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="hello">
+      <created>1698377571870</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698377571870</updated>
+    </task>
+    <task id="LOCAL-00008" summary="hello">
+      <created>1699844959297</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699844959297</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
