@@ -5,34 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d90b6719-8c21-47b5-b72f-80fdf24f55da" name="Changes" comment="hello">
-      <change afterPath="$PROJECT_DIR$/src/CCircle/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CCircle/CircleTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dog/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dog/DogTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Guess/Guess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Guess/GuessTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Movie/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Movie/Movietester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Movie/Person/Person2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Bedroom/Bed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Bedroom/Bedroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Bedroom/Ceiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Bedroom/Lamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Bedroom/Wall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/FizzBuzz/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PC/BuildPC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PC/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PC/Dimension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PC/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PC/Motherboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PC/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PC/Resolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PC/Size.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person/PersonTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/Chapter6/Exercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Chapter6/Exercise5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699844959297</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="hello">
+      <created>1699845072277</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699845072277</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

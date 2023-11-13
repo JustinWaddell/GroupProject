@@ -1,12 +1,12 @@
 package Homework.Chapter6;
 /**
- * class: EvenNumber
+ * class: Exercise5
  * @author: Justin Maverick Waddell
  * @version: 1.0
  * course: ITEC 2140 - 09, Fall 2023
  * written on: November 12, 2023
  * Description: 5.12.8 :This program is used to create an array list that takes integers that occur in both
- * array list and put them in a new one.
+ * array lists and put them in a new one.
  */
 import java.util.*;
 public class Exercise5 {
