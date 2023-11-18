@@ -1,5 +1,13 @@
 package Homework.Chapter7;
-
+/**
+ * class: SchoolClass
+ * @author: Justin Maverick Waddell
+ * @version: 1.0
+ * course: ITEC 2140 - 09, Fall 2023
+ * written on: November 17, 2023
+ * Description: 5.12.8 :This program is used to see which students are oldest and youngest using an arraylist of
+ * students and the information coming from the student class.
+ */
 import java.util.ArrayList;
 
 public class SchoolClass {
