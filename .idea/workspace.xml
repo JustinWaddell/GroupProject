@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d90b6719-8c21-47b5-b72f-80fdf24f55da" name="Changes" comment="hello">
-      <change beforePath="$PROJECT_DIR$/src/Homework/Chapter7/SchoolClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Chapter7/SchoolClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Chapter7/StudentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Chapter7/StudentClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProject/Address2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProject/GetMovie2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProject/LegoCityCrisis2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProject/Palindrome2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProject/PetDog9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProject/Prime2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProject/PrintOdd2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProject/PrintUserName2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProject/ReverseTheReverse2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProject/ToCelsius2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/Chapter5/Exercise4ReadaString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Chapter5/Exercise4ReadaString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/Chapter5/GetAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Chapter5/GetAddress.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700272291194</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="hello">
+      <created>1700274187486</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1700274187486</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

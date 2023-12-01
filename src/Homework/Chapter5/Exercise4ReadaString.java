@@ -11,7 +11,7 @@ package Homework.Chapter5;
 import java.util.Scanner;
 
 public class Exercise4ReadaString {
-private Scanner input;
+private static Scanner input;
 
     public String readThyString(){
         System.out.println("Please input a string");
@@ -21,7 +21,7 @@ private Scanner input;
 
     public static void main(String[] args) {
         Exercise4ReadaString newAns = new Exercise4ReadaString();
-        newAns.input = new Scanner(System.in);
+        input = new Scanner(System.in);
         String str = newAns.readThyString();
         System.out.println(str);
     }

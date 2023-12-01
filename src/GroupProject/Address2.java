@@ -1,22 +1,19 @@
-package Homework.Chapter5;
-/**
- * class: GetAddress
- * @author: Justin Maverick Waddell
- * @version: 1.0
- * course: ITEC 2140 - 09, Fall 2023
- * written on: October 26, 2023
- * Description: 4.11.13 :This program is uses 2 class methods for the print to print out there address.
- */
-import java.util.Scanner;
-public class GetAddress {
-    public static void main(String[] args) {
-        GetAddress ans = new GetAddress();
+package GroupProject;
+import Homework.Chapter5.GetAddress;
 
-        String nA = ans.nameAddress();
-        String cS = ans.cityState();
+import java.util.Scanner;
+public class Address2 {
+    public static void main(String[] args) {
+        Address2 ans = new Address2();
+
+        String nA = ans.GetAddress();
+        String cS = ans.getcityState();
         System.out.println(nA + cS);
     }
-    public String nameAddress() {
+
+
+
+    public String GetAddress(){
         Scanner input = new Scanner(System.in);
         System.out.println("Please input the name of the address.");
         String name = input.nextLine();
@@ -25,7 +22,7 @@ public class GetAddress {
         return name + ", " + address;
 
     }
-    public String cityState() {
+    public String getcityState() {
         Scanner input = new Scanner(System.in);
         System.out.println("Please input the city of the address.");
         String city = input.nextLine();
@@ -34,4 +31,5 @@ public class GetAddress {
 
         return ", " + city + " " + state;
     }
+
 }
