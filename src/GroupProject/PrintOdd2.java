@@ -1,6 +1,6 @@
 package GroupProject;
 /**
- * class: Palindrome2
+ * class: PrintOdd2
  * @author: Justin Maverick Waddell
  * @version: 1.0
  * course: ITEC 2140 - 09, Fall 2023
