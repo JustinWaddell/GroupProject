@@ -1,5 +1,19 @@
 package GroupProject;
-
+/**
+ * class: PetDog9
+ * @author: Justin Maverick Waddell
+ * @version: 1.0
+ * course: ITEC 2140 - 09, Fall 2023
+ * written on: November 28, 2023
+ * Question: 1:Create a class that involves creating your own pet dog. Using these instance variables:
+ * Name
+ * Breed
+ * Age(number)
+ *
+ * 2.create a no argument constructor
+ * 3.  Create the constructors for that takes name , type, and ,age as arguments :
+ * 4. create the getter and setters and toString.
+ */
 public class PetDog9 {
     private String Name;
     private String Breed;

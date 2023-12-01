@@ -1,5 +1,14 @@
 package GroupProject;
-
+/**
+ * class: GetMovie2
+ * @author: Justin Maverick Waddell
+ * @version: 1.0
+ * course: ITEC 2140 - 09, Fall 2023
+ * written on: November 28, 2023
+ * Question:8.	You need to create a program that gets the user to print out their favorite movie with
+ * the year that it was made and who directed it.You are required to use
+ * class methods to complete this program.
+ */
 import java.util.Scanner;
 
 public class GetMovie2 {

@@ -1,6 +1,15 @@
 package GroupProject;
 
-import Homework.Chapter5.ReverseString;
+/**
+ * class: Palindrome2
+ * @author: Justin Maverick Waddell
+ * @version: 1.0
+ * course: ITEC 2140 - 09, Fall 2023
+ * written on: November 28, 2023
+ * Question: 7.	There is an error in your businesses code causing all the words to become backwards.
+ * However, you cannot delete the code itself. Create an instance method that will
+ * reverse all the words submitted by the user.
+ */
 
 import java.util.Scanner;
 

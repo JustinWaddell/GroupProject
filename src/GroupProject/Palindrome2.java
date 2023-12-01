@@ -1,5 +1,12 @@
 package GroupProject;
-
+/**
+ * class: Palindrome2
+ * @author: Justin Maverick Waddell
+ * @version: 1.0
+ * course: ITEC 2140 - 09, Fall 2023
+ * written on: November 28, 2023
+ * Question: 2.	Create an instance method using a palindrome.
+ */
 import java.util.Scanner;
 
 public class Palindrome2 {

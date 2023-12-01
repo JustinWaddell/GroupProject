@@ -1,4 +1,13 @@
 package GroupProject;
+/**
+ * class: Palindrome2
+ * @author: Justin Maverick Waddell
+ * @version: 1.0
+ * course: ITEC 2140 - 09, Fall 2023
+ * written on: November 28, 2023
+ * Question: 5.	You’re making a website that gets the user to input the temperature in Fahrenheit to make it turn it to degree’s Celsius. Create the code below using this to help finish it.
+ * •	Give equation (Fahrenheit -32) * 5/9
+ */
 
 import java.util.Scanner;
 

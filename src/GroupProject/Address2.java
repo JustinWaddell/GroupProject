@@ -1,5 +1,15 @@
 package GroupProject;
-import Homework.Chapter5.GetAddress;
+/**
+ * class: Address2
+ * @author: Justin Maverick Waddell
+ * @version: 1.0
+ * course: ITEC 2140 - 09, Fall 2023
+ * written on: November 28, 2023
+ * Question:	You’re creating a website that needs to record their address for its users
+ * to help in the purchasing process. Create an instance method that will print
+ * out the user’s address after putting all the requested information
+ */
+
 
 import java.util.Scanner;
 public class Address2 {

@@ -1,6 +1,14 @@
 package GroupProject;
 
-import Homework.Chapter5.IsPrime;
+/**
+ * class: Palindrome2
+ * @author: Justin Maverick Waddell
+ * @version: 1.0
+ * course: ITEC 2140 - 09, Fall 2023
+ * written on: November 28, 2023
+ * Question: 6.	You have been tasked by the team leader to create an
+ * instance method that checks to see if a number is prime
+*/
 
 import java.util.Scanner;
 

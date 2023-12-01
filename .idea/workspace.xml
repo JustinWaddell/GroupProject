@@ -5,19 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d90b6719-8c21-47b5-b72f-80fdf24f55da" name="Changes" comment="hello">
-      <change afterPath="$PROJECT_DIR$/src/GroupProject/Address2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupProject/GetMovie2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupProject/LegoCityCrisis2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupProject/Palindrome2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupProject/PetDog9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupProject/Prime2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupProject/PrintOdd2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupProject/PrintUserName2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupProject/ReverseTheReverse2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupProject/ToCelsius2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Chapter5/Exercise4ReadaString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Chapter5/Exercise4ReadaString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Chapter5/GetAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Chapter5/GetAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupProject/Address2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProject/Address2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupProject/GetMovie2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProject/GetMovie2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupProject/LegoCityCrisis2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProject/LegoCityCrisis2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupProject/Palindrome2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProject/Palindrome2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupProject/PetDog9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProject/PetDog9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupProject/Prime2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProject/Prime2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupProject/PrintOdd2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProject/PrintOdd2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupProject/PrintUserName2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProject/PrintUserName2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1700274187486</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="hello">
+      <created>1701448503854</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1701448503855</updated>
+    </task>
+    <task id="LOCAL-00014" summary="hello">
+      <created>1701448519079</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1701448519079</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

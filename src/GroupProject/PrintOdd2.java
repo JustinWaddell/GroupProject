@@ -1,4 +1,13 @@
 package GroupProject;
+/**
+ * class: Palindrome2
+ * @author: Justin Maverick Waddell
+ * @version: 1.0
+ * course: ITEC 2140 - 09, Fall 2023
+ * written on: November 28, 2023
+ * Question: 4.	Since there is an asteroid coming to destroy the earth the only one who can save it is you.
+ * The only thing you must do is create an instance method that tells you if a number chosen by the user is odd.
+ */
 
 import java.util.Scanner;
 
